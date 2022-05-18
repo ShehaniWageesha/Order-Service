@@ -1,4 +1,4 @@
-package com.sliit.mtit.microservice.orderservice;
+package com.sliit.ctse.microservice.orderservice;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

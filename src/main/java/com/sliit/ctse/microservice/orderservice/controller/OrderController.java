@@ -1,4 +1,4 @@
-package com.sliit.mtit.microservice.orderservice.controller;
+package com.sliit.ctse.microservice.orderservice.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

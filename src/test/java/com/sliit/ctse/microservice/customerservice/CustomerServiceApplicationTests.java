@@ -1,4 +1,4 @@
-package com.sliit.mtit.microservice.customerservice;
+package com.sliit.ctse.microservice.customerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.sliit.mtit.microservice.orderservice.dto;
+package com.sliit.ctse.microservice.orderservice.dto;
 
 import java.math.BigDecimal;
 import java.util.Date;
