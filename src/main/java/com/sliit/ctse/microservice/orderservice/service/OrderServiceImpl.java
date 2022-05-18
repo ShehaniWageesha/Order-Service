@@ -9,10 +9,10 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.sliit.mtit.microservice.orderservice.dto.OrderRequest;
-import com.sliit.mtit.microservice.orderservice.dto.OrderResponse;
-import com.sliit.mtit.microservice.orderservice.dto.MakePaymentRequest;
-import com.sliit.mtit.microservice.orderservice.dto.MakePaymentResponse;
+import com.sliit.ctse.microservice.orderservice.dto.OrderRequest;
+import com.sliit.ctse.microservice.orderservice.dto.OrderResponse;
+import com.sliit.ctse.microservice.orderservice.dto.MakePaymentRequest;
+import com.sliit.ctse.microservice.orderservice.dto.MakePaymentResponse;
 
 @Service
 public class OrderServiceImpl {
